@@ -1,0 +1,3 @@
+[submodule "your_name"]
+	path = your_name
+	url = git@github.com:KosenXmasCTF/your_name.git
