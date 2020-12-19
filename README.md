@@ -1,7 +1,7 @@
 # KosenXmasCTF
 ## 🔍 Problems
 - Reversing
-  - [countdown](./countdown/)
+  - [countdown](https://github.com/KosenXmasCTF/countdown)
 - Network
 - Pwn
 - Web
