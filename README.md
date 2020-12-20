@@ -3,6 +3,6 @@
 - Reversing
 - Network
 - Pwn
-	- [pinzoro](./pinzoro/)
+	- [pinzoro](https://github.com/KosenXmasCTF/pinzoro)
 - Web
 - Misc
