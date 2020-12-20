@@ -1,3 +1,6 @@
 [submodule "countdown"]
 	path = countdown
 	url = https://github.com/KosenXmasCTF/countdown
+[submodule "do_you_know_RSA"]
+	path = do_you_know_RSA
+	url = https://github.com/KosenXmasCTF/do_you_know_RSA
