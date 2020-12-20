@@ -5,5 +5,5 @@
 - Network
 - Pwn
 - Web
-    - [your_name](./your_name/)
+  - [your_name](https://github.com/KosenXmasCTF/your_name)
 - Misc
