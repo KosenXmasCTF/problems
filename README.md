@@ -1,7 +1,7 @@
 # KosenXmasCTF
 ## 🔍 Problems
 - Reversing
-  - [RGB](./RGB)
+  - [RGB](https://github.com/KosenXmasCTF/RGB)
 - Network
 - Pwn
 - Web
