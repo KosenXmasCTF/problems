@@ -4,3 +4,6 @@
 [submodule "first_asm"]
 	path = first_asm
 	url = https://github.com/KosenXmasCTF/first_asm
+[submodule "advanced_carsar"]
+	path = advanced_carsar
+	url = https://github.com/KosenXmasCTF/advanced_carsar
