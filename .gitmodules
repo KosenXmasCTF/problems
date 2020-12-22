@@ -1,3 +1,6 @@
 [submodule "countdown"]
 	path = countdown
 	url = https://github.com/KosenXmasCTF/countdown
+[submodule "easy_heap"]
+	path = easy_heap
+	url = https://github.com/KosenXmasCTF/easy_heap
