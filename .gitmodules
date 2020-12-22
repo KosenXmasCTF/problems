@@ -1,3 +1,6 @@
 [submodule "countdown"]
 	path = countdown
 	url = https://github.com/KosenXmasCTF/countdown
+[submodule "dummy"]
+	path = dummy
+	url = https://github.com/KosenXmasCTF/dummy
