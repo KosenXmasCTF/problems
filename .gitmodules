@@ -18,3 +18,6 @@
 [submodule "let_us_walk_zip"]
 	path = let_us_walk_zip
 	url = git@github.com:KosenXmasCTF/let_us_walk_zip
+[submodule "do_you_like_CBC"]
+	path = do_you_like_CBC
+	url = git@github.com:KosenXmasCTF/do_you_like_CBC.git
