@@ -4,6 +4,9 @@
 [submodule "countdown"]
 	path = countdown
 	url = https://github.com/KosenXmasCTF/countdown
+[submodule "begineers_shell"]
+	path = begineers_shell
+	url = https://github.com/KosenXmasCTF/begineers_shell
 
 [submodule "advanced_carsar"]
 	path = advanced_carsar

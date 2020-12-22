@@ -4,6 +4,7 @@
   - [countdown](https://github.com/KosenXmasCTF/countdown)
 - Network
 - Pwn
+  - [beginners_shell](https://github.com/KosenXmasCTF/begineers_shell)
 	- [pinzoro](https://github.com/KosenXmasCTF/pinzoro)
 - Web
   - [your_name](https://github.com/KosenXmasCTF/your_name)

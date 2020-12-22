@@ -1,4 +1,4 @@
-[Repository](https://github.com/KosenXmasCTF/change_me)
+[Repository](https://github.com/KosenXmasCTF/begineers_shell)
 
 <!-- なにか言いたいことがあれば -->
 
