@@ -2,5 +2,5 @@
 	path = countdown
 	url = https://github.com/KosenXmasCTF/countdown
 [submodule "let_us_unzip"]
-	path = let_us_unzip
+	path = let_us_walk_zip
 	url = git@github.com:KosenXmasCTF/let_us_unzip
