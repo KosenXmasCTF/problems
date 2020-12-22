@@ -12,3 +12,4 @@
   - [let_us_walk_zip](https://github.com/KosenXmasCTF/let_us_walk_zip)
 - Crypto
   - [advanced_carsar](https://github.com/KosenXmasCTF/advanced_carsar)
+  - [do_you_like_CBC](https://github.com/KosenXmasCTF/do_you_like_CBC)
