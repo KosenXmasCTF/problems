@@ -1,3 +1,6 @@
 [submodule "pinzoro"]
 	path = pinzoro
 	url = https://github.com/KosenXmasCTF/pinzoro
+[submodule "countdown"]
+	path = countdown
+	url = https://github.com/KosenXmasCTF/countdown
