@@ -43,3 +43,6 @@
 [submodule "first_asm"]
 	path = first_asm
 	url = https://github.com/KosenXmasCTF/first_asm.git
+[submodule "do_you_like_CBC"]
+	path = do_you_like_CBC
+	url = git@github.com:KosenXmasCTF/do_you_like_CBC.git
