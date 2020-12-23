@@ -16,6 +16,7 @@
   - [pinzoro](https://github.com/KosenXmasCTF/pinzoro)
   - [dead_or_alive](https://github.com/KosenXmasCTF/dead_or_alive.git)
 - Web
+  - [bad_path](https://github.com/KosenXmasCTF/bad_path)
   - [your_name](https://github.com/KosenXmasCTF/your_name)
 - Misc
   - [what_is_include](https://github.com/KosenXmasCTF/what_is_include)
