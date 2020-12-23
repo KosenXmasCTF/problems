@@ -15,15 +15,13 @@
 	url = https://github.com/KosenXmasCTF/easy_heap
 [submodule "begineers_shell"]
 	path = begineers_shell
-	url = https://github.com/KosenXmasCTF/begineers_shell
-
+	url = https://github.com/KosenXmasCTF/begineers_shell.git
 [submodule "advanced_carsar"]
 	path = advanced_carsar
-	url = https://github.com/KosenXmasCTF/advanced_carsar
-
+	url = https://github.com/KosenXmasCTF/advanced_carsar.git
 [submodule "your_name"]
 	path = your_name
-	url = git@github.com:KosenXmasCTF/your_name.git
+	url = https://github.com/KosenXmasCTF/your_name.git
 [submodule "let_us_walk_zip"]
 	path = let_us_walk_zip
-	url = git@github.com:KosenXmasCTF/let_us_walk_zip
+	url = https://github.com/KosenXmasCTF/let_us_walk_zip.git
