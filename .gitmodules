@@ -15,7 +15,7 @@
 	url = https://github.com/KosenXmasCTF/begineers_shell.git
 [submodule "advanced_carsar"]
 	path = advanced_carsar
-	url = https://github.com/KosenXmasCTF/advanced_carsar
+	url = https://github.com/KosenXmasCTF/advanced_carsar.git
 [submodule "your_name"]
 	path = your_name
 	url = https://github.com/KosenXmasCTF/your_name.git
