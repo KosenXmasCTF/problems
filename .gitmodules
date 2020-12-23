@@ -35,3 +35,6 @@
 [submodule "first_asm"]
 	path = first_asm
 	url = https://github.com/KosenXmasCTF/first_asm.git
+[submodule "XmasSpecialSite"]
+	path = XmasSpecialSite
+	url = https://github.com/KosenXmasCTF/XmasSpecialSite.git
