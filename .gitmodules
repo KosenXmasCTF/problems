@@ -35,3 +35,6 @@
 [submodule "first_asm"]
 	path = first_asm
 	url = https://github.com/KosenXmasCTF/first_asm.git
+[submodule "dead_or_alive"]
+	path = dead_or_alive
+	url = https://github.com/KosenXmasCTF/dead_or_alive.git
