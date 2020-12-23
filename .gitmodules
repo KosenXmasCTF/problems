@@ -25,9 +25,9 @@
 [submodule "begineers_shell"]
 	path = begineers_shell
 	url = https://github.com/KosenXmasCTF/begineers_shell.git
-[submodule "advanced_caesar"]
-	path = advanced_caesar
-	url = https://github.com/KosenXmasCTF/advanced_caesar.git
+[submodule "advanced_carsar"]
+	path = advanced_carsar
+	url = https://github.com/KosenXmasCTF/advanced_carsar.git
 [submodule "your_name"]
 	path = your_name
 	url = https://github.com/KosenXmasCTF/your_name.git
@@ -40,4 +40,3 @@
 [submodule "first_asm"]
 	path = first_asm
 	url = https://github.com/KosenXmasCTF/first_asm.git
->>>>>>> 8752f023dd8ac861c92fc3a5a575306965d7dd5b
