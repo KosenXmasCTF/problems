@@ -1,18 +1,18 @@
 [submodule "RGB"]
 	path = RGB
-	url = https://github.com/KosenXmasCTF/RGB
+	url = https://github.com/KosenXmasCTF/RGB.git
 [submodule "pinzoro"]
 	path = pinzoro
-	url = https://github.com/KosenXmasCTF/pinzoro
+	url = https://github.com/KosenXmasCTF/pinzoro.git
 [submodule "countdown"]
 	path = countdown
-	url = https://github.com/KosenXmasCTF/countdown
+	url = https://github.com/KosenXmasCTF/countdown.git
 [submodule "what_is_include"]
 	path = what_is_include
-	url = https://github.com/KosenXmasCTF/what_is_include
+	url = https://github.com/KosenXmasCTF/what_is_include.git
 [submodule "easy_heap"]
 	path = easy_heap
-	url = https://github.com/KosenXmasCTF/easy_heap
+	url = https://github.com/KosenXmasCTF/easy_heap.git
 [submodule "begineers_shell"]
 	path = begineers_shell
 	url = https://github.com/KosenXmasCTF/begineers_shell.git
@@ -25,3 +25,6 @@
 [submodule "let_us_walk_zip"]
 	path = let_us_walk_zip
 	url = https://github.com/KosenXmasCTF/let_us_walk_zip.git
+[submodule "strings_binary"]
+	path = strings_binary
+	url = https://github.com/KosenXmasCTF/strings_binary.git
