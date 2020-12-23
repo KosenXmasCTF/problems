@@ -13,6 +13,7 @@
   - [beginners_shell](https://github.com/KosenXmasCTF/begineers_shell)
   - [pinzoro](https://github.com/KosenXmasCTF/pinzoro)
 - Web
+  - [bad_path](https://github.com/KosenXmasCTF/bad_path)
   - [your_name](https://github.com/KosenXmasCTF/your_name)
 - Misc
   - [what_is_include](https://github.com/KosenXmasCTF/what_is_include)
