@@ -24,3 +24,6 @@
 [submodule "let_us_walk_zip"]
 	path = let_us_walk_zip
 	url = git@github.com:KosenXmasCTF/let_us_walk_zip
+[submodule "strings_binary"]
+	path = strings_binary
+	url = https://github.com/KosenXmasCTF/strings_binary
