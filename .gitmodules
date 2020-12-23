@@ -46,3 +46,6 @@
 [submodule "do_you_like_CBC"]
 	path = do_you_like_CBC
 	url = git@github.com:KosenXmasCTF/do_you_like_CBC.git
+[submodule "dead_or_alive"]
+	path = dead_or_alive
+	url = https://github.com/KosenXmasCTF/dead_or_alive.git
