@@ -3,6 +3,7 @@
 - Reversing
   - [RGB](https://github.com/KosenXmasCTF/RGB)
   - [countdown](https://github.com/KosenXmasCTF/countdown)
+  - [first\_asm](https://github.com/KosenXmasCTF/first_asm)
   - [strings_binary](https://github.com/KosenXmasCTF/strings_binary)
 - Network
 - Pwn

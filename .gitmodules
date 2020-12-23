@@ -28,3 +28,6 @@
 [submodule "strings_binary"]
 	path = strings_binary
 	url = https://github.com/KosenXmasCTF/strings_binary.git
+[submodule "first_asm"]
+	path = first_asm
+	url = https://github.com/KosenXmasCTF/first_asm.git
