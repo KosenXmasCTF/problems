@@ -7,6 +7,9 @@
 [submodule "countdown"]
 	path = countdown
 	url = https://github.com/KosenXmasCTF/countdown.git
+[submodule "illigal_jump"]
+	path = illigal_jump
+	url = https://github.com/KosenXmasCTF/illigal_jump.git
 [submodule "match_flag"]
 	path = match_flag
 	url = https://github.com/KosenXmasCTF/match_flag.git
@@ -22,9 +25,9 @@
 [submodule "begineers_shell"]
 	path = begineers_shell
 	url = https://github.com/KosenXmasCTF/begineers_shell.git
-[submodule "advanced_caesar"]
-	path = advanced_caesar
-	url = https://github.com/KosenXmasCTF/advanced_caesar.git
+[submodule "advanced_carsar"]
+	path = advanced_carsar
+	url = https://github.com/KosenXmasCTF/advanced_carsar.git
 [submodule "your_name"]
 	path = your_name
 	url = https://github.com/KosenXmasCTF/your_name.git
