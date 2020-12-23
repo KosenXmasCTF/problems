@@ -49,3 +49,6 @@
 [submodule "dead_or_alive"]
 	path = dead_or_alive
 	url = https://github.com/KosenXmasCTF/dead_or_alive.git
+[submodule "write_where_what"]
+	path = write_where_what
+	url = https://github.com/KosenXmasCTF/write_where_what.git
