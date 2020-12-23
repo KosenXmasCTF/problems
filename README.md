@@ -15,7 +15,6 @@
   - [beginners_shell](https://github.com/KosenXmasCTF/begineers_shell)
   - [pinzoro](https://github.com/KosenXmasCTF/pinzoro)
   - [dead_or_alive](https://github.com/KosenXmasCTF/dead_or_alive.git)
->>>>>>> origin
 - Web
   - [your_name](https://github.com/KosenXmasCTF/your_name)
 - Misc
