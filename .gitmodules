@@ -13,7 +13,6 @@
 [submodule "illigal_jump"]
 	path = illigal_jump
 	url = https://github.com/KosenXmasCTF/illigal_jump.git
->>>>>>> c4df81d6e20d49be45d92197f73b9c8634b50433
 [submodule "match_flag"]
 	path = match_flag
 	url = https://github.com/KosenXmasCTF/match_flag.git
