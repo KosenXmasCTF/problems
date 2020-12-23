@@ -7,6 +7,9 @@
 [submodule "countdown"]
 	path = countdown
 	url = https://github.com/KosenXmasCTF/countdown.git
+[submodule "dummy"]
+	path = dummy
+	url = https://github.com/KosenXmasCTF/dummy.git
 [submodule "illigal_jump"]
 	path = illigal_jump
 	url = https://github.com/KosenXmasCTF/illigal_jump.git
@@ -40,6 +43,15 @@
 [submodule "first_asm"]
 	path = first_asm
 	url = https://github.com/KosenXmasCTF/first_asm.git
+[submodule "do_you_like_CBC"]
+	path = do_you_like_CBC
+	url = git@github.com:KosenXmasCTF/do_you_like_CBC.git
+[submodule "dead_or_alive"]
+	path = dead_or_alive
+	url = https://github.com/KosenXmasCTF/dead_or_alive.git
+[submodule "write_where_what"]
+	path = write_where_what
+	url = https://github.com/KosenXmasCTF/write_where_what.git
 [submodule "bad_path"]
 	path = bad_path
 	url = https://github.com/KosenXmasCTF/bad_path.git
