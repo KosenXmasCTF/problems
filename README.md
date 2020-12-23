@@ -5,7 +5,6 @@
   - [countdown](https://github.com/KosenXmasCTF/countdown)
   - [first\_asm](https://github.com/KosenXmasCTF/first_asm)
   - [strings_binary](https://github.com/KosenXmasCTF/strings_binary)
->>>>>>> origin
 - Network
 - Pwn
   - [easy_heap](https://github.com/KosenXmasCTF/easy_heap)
