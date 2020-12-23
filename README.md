@@ -2,7 +2,7 @@
 ## 🔍 Problems
 - Reversing
   - [countdown](https://github.com/KosenXmasCTF/countdown)
-	- [strings_binary](https://github.com/KosenXmasCTF/strings_binary)
+  - [strings_binary](https://github.com/KosenXmasCTF/strings_binary)
 - Network
 - Pwn
   - [easy_heap](https://github.com/KosenXmasCTF/easy_heap)
