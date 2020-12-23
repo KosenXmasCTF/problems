@@ -24,5 +24,3 @@
 [submodule "let_us_walk_zip"]
 	path = let_us_walk_zip
 	url = git@github.com:KosenXmasCTF/let_us_walk_zip
-
->>>>>>> master
