@@ -1,4 +1,4 @@
-[Repository](https://github.com/KosenXmasCTF/RGB)
+[Repository](https://github.com/KosenXmasCTF/changeme)
 
 <!-- なにか言いたいことがあれば -->
 
