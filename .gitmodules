@@ -18,7 +18,7 @@
 	url = https://github.com/KosenXmasCTF/advanced_carsar
 [submodule "your_name"]
 	path = your_name
-	url = git@github.com:KosenXmasCTF/your_name.git
+	url = https://github.com/KosenXmasCTF/your_name.git
 [submodule "let_us_walk_zip"]
 	path = let_us_walk_zip
 	url = git@github.com:KosenXmasCTF/let_us_walk_zip
