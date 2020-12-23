@@ -12,6 +12,7 @@
   - [illigal_jump](https://github.com/KosenXmasCTF/what_is_include)
   - [match_flag](https://github.com/KosenXmasCTF/match_flag)
   - [easy_heap](https://github.com/KosenXmasCTF/easy_heap)
+  - [super_type](https://github.com/KosenXmasCTF/super_type)
   - [beginners_shell](https://github.com/KosenXmasCTF/begineers_shell)
   - [pinzoro](https://github.com/KosenXmasCTF/pinzoro)
   - [dead_or_alive](https://github.com/KosenXmasCTF/dead_or_alive.git)
