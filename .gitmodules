@@ -58,3 +58,6 @@
 [submodule "magic_mirror"]
 	path = magic_mirror
 	url = https://github.com/KosenXmasCTF/magic_mirror.git
+[submodule "sailor_or_blazor"]
+	path = sailor_or_blazor
+	url = https://github.com/KosenXmasCTF/sailor_or_blazor.git
