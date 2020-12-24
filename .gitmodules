@@ -55,3 +55,6 @@
 [submodule "bad_path"]
 	path = bad_path
 	url = https://github.com/KosenXmasCTF/bad_path.git
+[submodule "magic_mirror"]
+	path = magic_mirror
+	url = https://github.com/KosenXmasCTF/magic_mirror.git
