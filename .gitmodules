@@ -52,3 +52,6 @@
 [submodule "write_where_what"]
 	path = write_where_what
 	url = https://github.com/KosenXmasCTF/write_where_what.git
+[submodule "bad_hashj"]
+	path = bad_hashj
+	url = https://github.com/KosenXmasCTF/bad_hashj

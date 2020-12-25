@@ -24,3 +24,4 @@
   - [do_you_know_RSA?](https://github.com/KosenXmasCTF/do_you_know_RSA)
   - [advanced_caesar](https://github.com/KosenXmasCTF/advanced_caesar)
   - [do_you_like_CBC](https://github.com/KosenXmasCTF/do_you_like_CBC)
+  - [bad_hash](https://github.com/KosenXmasCTF/bad_hashj)
