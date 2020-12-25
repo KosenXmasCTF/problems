@@ -17,7 +17,9 @@
   - [pinzoro](https://github.com/KosenXmasCTF/pinzoro)
   - [dead_or_alive](https://github.com/KosenXmasCTF/dead_or_alive.git)
 - Web
+  - [bad_path](https://github.com/KosenXmasCTF/bad_path)
   - [your_name](https://github.com/KosenXmasCTF/your_name)
+  - [sailor_or_blazor](https://github.com/KosenXmasCTF/sailor_or_blazor)
 - Misc
   - [what_is_include](https://github.com/KosenXmasCTF/what_is_include)
   - [let_us_walk_zip](https://github.com/KosenXmasCTF/let_us_walk_zip)
@@ -25,3 +27,4 @@
   - [do_you_know_RSA?](https://github.com/KosenXmasCTF/do_you_know_RSA)
   - [advanced_caesar](https://github.com/KosenXmasCTF/advanced_caesar)
   - [do_you_like_CBC](https://github.com/KosenXmasCTF/do_you_like_CBC)
+  - [magic_mirror](https://github.com/KosenXmasCTF/magic_mirror)

@@ -52,6 +52,15 @@
 [submodule "write_where_what"]
 	path = write_where_what
 	url = https://github.com/KosenXmasCTF/write_where_what.git
+[submodule "bad_path"]
+	path = bad_path
+	url = https://github.com/KosenXmasCTF/bad_path.git
+[submodule "magic_mirror"]
+	path = magic_mirror
+	url = https://github.com/KosenXmasCTF/magic_mirror.git
+[submodule "sailor_or_blazor"]
+	path = sailor_or_blazor
+	url = https://github.com/KosenXmasCTF/sailor_or_blazor.git
 [submodule "super_type"]
 	path = super_type
 	url = https://github.com/KosenXmasCTF/super_type
