@@ -18,6 +18,7 @@
 - Web
   - [bad_path](https://github.com/KosenXmasCTF/bad_path)
   - [your_name](https://github.com/KosenXmasCTF/your_name)
+  - [sailor_or_blazor](https://github.com/KosenXmasCTF/sailor_or_blazor)
 - Misc
   - [what_is_include](https://github.com/KosenXmasCTF/what_is_include)
   - [let_us_walk_zip](https://github.com/KosenXmasCTF/let_us_walk_zip)
