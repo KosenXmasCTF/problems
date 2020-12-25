@@ -8,7 +8,7 @@
   - [strings_binary](https://github.com/KosenXmasCTF/strings_binary)
 - Pwn
   - [write_where_what](https://github.com/KosenXmasCTF/write_where_what)
-  - [illigal_jump](https://github.com/KosenXmasCTF/what_is_include)
+  - [illgal_jump](https://github.com/KosenXmasCTF/illigal_jump)
   - [match_flag](https://github.com/KosenXmasCTF/match_flag)
   - [easy_heap](https://github.com/KosenXmasCTF/easy_heap)
   - [super_type](https://github.com/KosenXmasCTF/super_type)
