@@ -64,3 +64,6 @@
 [submodule "super_type"]
 	path = super_type
 	url = https://github.com/KosenXmasCTF/super_type
+[submodule "bad_hashj"]
+	path = bad_hashj
+	url = https://github.com/KosenXmasCTF/bad_hashj

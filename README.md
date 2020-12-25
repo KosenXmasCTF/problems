@@ -27,3 +27,4 @@
   - [advanced_caesar](https://github.com/KosenXmasCTF/advanced_caesar)
   - [do_you_like_CBC](https://github.com/KosenXmasCTF/do_you_like_CBC)
   - [magic_mirror](https://github.com/KosenXmasCTF/magic_mirror)
+  - [bad_hash](https://github.com/KosenXmasCTF/bad_hashj)
