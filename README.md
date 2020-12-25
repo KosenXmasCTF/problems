@@ -6,7 +6,6 @@
   - [dummy](https://github.com/KosenXmasCTF/dummy)
   - [first\_asm](https://github.com/KosenXmasCTF/first_asm)
   - [strings_binary](https://github.com/KosenXmasCTF/strings_binary)
-- Network
 - Pwn
   - [write_where_what](https://github.com/KosenXmasCTF/write_where_what)
   - [illigal_jump](https://github.com/KosenXmasCTF/what_is_include)
