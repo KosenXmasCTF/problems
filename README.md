@@ -6,17 +6,19 @@
   - [dummy](https://github.com/KosenXmasCTF/dummy)
   - [first\_asm](https://github.com/KosenXmasCTF/first_asm)
   - [strings_binary](https://github.com/KosenXmasCTF/strings_binary)
-- Network
 - Pwn
   - [write_where_what](https://github.com/KosenXmasCTF/write_where_what)
   - [illigal_jump](https://github.com/KosenXmasCTF/what_is_include)
   - [match_flag](https://github.com/KosenXmasCTF/match_flag)
   - [easy_heap](https://github.com/KosenXmasCTF/easy_heap)
+  - [super_type](https://github.com/KosenXmasCTF/super_type)
   - [beginners_shell](https://github.com/KosenXmasCTF/begineers_shell)
   - [pinzoro](https://github.com/KosenXmasCTF/pinzoro)
   - [dead_or_alive](https://github.com/KosenXmasCTF/dead_or_alive.git)
 - Web
+  - [bad_path](https://github.com/KosenXmasCTF/bad_path)
   - [your_name](https://github.com/KosenXmasCTF/your_name)
+  - [sailor_or_blazor](https://github.com/KosenXmasCTF/sailor_or_blazor)
 - Misc
   - [what_is_include](https://github.com/KosenXmasCTF/what_is_include)
   - [let_us_walk_zip](https://github.com/KosenXmasCTF/let_us_walk_zip)
@@ -24,4 +26,5 @@
   - [do_you_know_RSA?](https://github.com/KosenXmasCTF/do_you_know_RSA)
   - [advanced_caesar](https://github.com/KosenXmasCTF/advanced_caesar)
   - [do_you_like_CBC](https://github.com/KosenXmasCTF/do_you_like_CBC)
+  - [magic_mirror](https://github.com/KosenXmasCTF/magic_mirror)
   - [bad_hash](https://github.com/KosenXmasCTF/bad_hashj)
